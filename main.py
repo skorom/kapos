@@ -3,3 +3,4 @@ if __name__ == '__main__':
     print('Éppen fgejlesztes')
     print('Megint fejlesztek')
     print('Patrik!')
+    print('Patrik2')
