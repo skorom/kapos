@@ -151,7 +151,6 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"]::before {
-  content: "nhfuiagjilísdkísfdoéoé";
   width: 0.65em;
   height: 0.65em;
   transform: scale(0);
